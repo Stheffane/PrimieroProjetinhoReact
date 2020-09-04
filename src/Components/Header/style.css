@@ -1,0 +1,16 @@
+.container {
+  background: #ffffff;
+  width: 58vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.container-top {
+  margin-top: 60px;
+}
+
+.container-bottom {
+  margin-bottom: 60px;
+}

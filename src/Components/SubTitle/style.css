@@ -1,0 +1,19 @@
+h3 {
+  font-family: 'Roboto';
+  color: black;
+  font-weight: bold;
+  font-size: 18px;
+  display: flex;
+  align-items: center;
+  padding-top: 10px;
+}
+
+h3::before {
+  content: '';
+  width: 5px;
+  height: 5px;
+  background-color: #42679e;
+  position: relative;
+  border-radius: 100%;
+  left: -20px;
+}
