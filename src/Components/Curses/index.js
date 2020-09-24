@@ -8,7 +8,7 @@ const cursos = [
     instituicao: 'Udemy',
     certificacao: [
       'Imersão em HTML e CSS',
-      'GIT',
+      'Git e Github para iniciantes',
       'Técnicas de gestão de tempo',
     ],
   },
